@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32397220130",
+    "project_id": "bookxpert-37b52",
+    "storage_bucket": "bookxpert-37b52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32397220130:android:2fe40fcbd94a69d0abed7b",
+        "android_client_info": {
+          "package_name": "com.example.bookxpert_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2gJgn3E3e1xFU_ao7uKgUD3Ru88c2djs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
